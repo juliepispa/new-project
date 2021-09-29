@@ -1,0 +1,13 @@
+body {
+  background: cadetblue;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+}
+
+a {
+  color: thistle;
+  display: block;
+}
